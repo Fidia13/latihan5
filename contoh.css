@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://imgx.parapuan.co/crop/photo/2022/11/28/jakarta-dessert-week-2022-kembal-20221128102956.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container {
+    width: 900px;
+    margin: 20px auto;
+    border: 5px dotted rgb(209, 42, 42) ;
+}
+h1 {
+    background-color: beige;
+    color: purple;
+    text-align: center;
+}
+h2 {
+    background-color: beige;
+    color: purple;
+    text-align: center;
+}
+p {
+    padding: 20px;
+    text-align: justify;
+}
